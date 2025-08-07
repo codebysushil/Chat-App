@@ -1,0 +1,5 @@
+.env
+/*.sqlite
+/*.db
+/vendor/ 
+composer.lock
